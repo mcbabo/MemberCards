@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MemberCards</string>
+    <dimen name="card_view_height">163dp</dimen>
+    <dimen name="card_view_height2">82dp</dimen>
+</resources>
